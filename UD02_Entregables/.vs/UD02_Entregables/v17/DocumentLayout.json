@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E0D652D-BB64-403B-9DD0-B4C2F782D3AA}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E0D652D-BB64-403B-9DD0-B4C2F782D3AA}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E0D652D-BB64-403B-9DD0-B4C2F782D3AA}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\sistemainventario\\sistema_inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E0D652D-BB64-403B-9DD0-B4C2F782D3AA}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\sistema_inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62628C90-EEDA-4D5E-985B-2429A98F319B}|GestionContactos\\GestionContactos.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\gestioncontactos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62628C90-EEDA-4D5E-985B-2429A98F319B}|GestionContactos\\GestionContactos.csproj|solutionrelative:gestioncontactos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E0D652D-BB64-403B-9DD0-B4C2F782D3AA}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0D652D-BB64-403B-9DD0-B4C2F782D3AA}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62628C90-EEDA-4D5E-985B-2429A98F319B}|GestionContactos\\GestionContactos.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\gestioncontactos\\gestion_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62628C90-EEDA-4D5E-985B-2429A98F319B}|GestionContactos\\GestionContactos.csproj|solutionrelative:gestioncontactos\\gestion_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62628C90-EEDA-4D5E-985B-2429A98F319B}|GestionContactos\\GestionContactos.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\gestioncontactos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62628C90-EEDA-4D5E-985B-2429A98F319B}|GestionContactos\\GestionContactos.csproj|solutionrelative:gestioncontactos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,23 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Sistema_inventario.cs",
               "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\SistemaInventario\\Sistema_inventario.cs",
               "RelativeDocumentMoniker": "SistemaInventario\\Sistema_inventario.cs",
               "ToolTip": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\SistemaInventario\\Sistema_inventario.cs",
               "RelativeToolTip": "SistemaInventario\\Sistema_inventario.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAswAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T18:57:22.353Z"
+              "WhenOpened": "2024-10-22T18:57:22.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Gestion_clientes.cs",
               "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionContactos\\Gestion_clientes.cs",
               "RelativeDocumentMoniker": "GestionContactos\\Gestion_clientes.cs",
@@ -50,24 +51,25 @@
               "RelativeToolTip": "GestionContactos\\Gestion_clientes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T18:55:53.26Z"
+              "WhenOpened": "2024-10-22T18:55:53.26Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\SistemaInventario\\Program.cs",
               "RelativeDocumentMoniker": "SistemaInventario\\Program.cs",
               "ToolTip": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\SistemaInventario\\Program.cs",
               "RelativeToolTip": "SistemaInventario\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T18:54:38.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionContactos\\Program.cs",
               "RelativeDocumentMoniker": "GestionContactos\\Program.cs",

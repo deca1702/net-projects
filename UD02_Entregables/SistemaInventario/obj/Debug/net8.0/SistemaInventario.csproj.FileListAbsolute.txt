@@ -1,0 +1,15 @@
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\SistemaInventario\bin\Debug\net8.0\SistemaInventario.exe
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\SistemaInventario\bin\Debug\net8.0\SistemaInventario.deps.json
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\SistemaInventario\bin\Debug\net8.0\SistemaInventario.runtimeconfig.json
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\SistemaInventario\bin\Debug\net8.0\SistemaInventario.dll
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\SistemaInventario\bin\Debug\net8.0\SistemaInventario.pdb
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\SistemaInventario\obj\Debug\net8.0\SistemaInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\SistemaInventario\obj\Debug\net8.0\SistemaInventario.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\SistemaInventario\obj\Debug\net8.0\SistemaInventario.AssemblyInfo.cs
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\SistemaInventario\obj\Debug\net8.0\SistemaInventario.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\SistemaInventario\obj\Debug\net8.0\SistemaInventario.sourcelink.json
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\SistemaInventario\obj\Debug\net8.0\SistemaInventario.dll
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\SistemaInventario\obj\Debug\net8.0\refint\SistemaInventario.dll
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\SistemaInventario\obj\Debug\net8.0\SistemaInventario.pdb
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\SistemaInventario\obj\Debug\net8.0\SistemaInventario.genruntimeconfig.cache
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\SistemaInventario\obj\Debug\net8.0\ref\SistemaInventario.dll
