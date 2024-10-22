@@ -1,0 +1,15 @@
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\bin\Debug\net8.0\GestionLibros.exe
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\bin\Debug\net8.0\GestionLibros.deps.json
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\bin\Debug\net8.0\GestionLibros.runtimeconfig.json
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\bin\Debug\net8.0\GestionLibros.dll
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\bin\Debug\net8.0\GestionLibros.pdb
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\obj\Debug\net8.0\GestionLibros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\obj\Debug\net8.0\GestionLibros.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\obj\Debug\net8.0\GestionLibros.AssemblyInfo.cs
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\obj\Debug\net8.0\GestionLibros.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\obj\Debug\net8.0\GestionLibros.sourcelink.json
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\obj\Debug\net8.0\GestionLibros.dll
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\obj\Debug\net8.0\refint\GestionLibros.dll
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\obj\Debug\net8.0\GestionLibros.pdb
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\obj\Debug\net8.0\GestionLibros.genruntimeconfig.cache
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\obj\Debug\net8.0\ref\GestionLibros.dll

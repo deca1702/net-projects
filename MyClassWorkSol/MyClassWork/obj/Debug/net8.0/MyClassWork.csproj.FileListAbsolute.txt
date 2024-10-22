@@ -1,0 +1,15 @@
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\MyClassWork\bin\Debug\net8.0\MyClassWork.exe
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\MyClassWork\bin\Debug\net8.0\MyClassWork.deps.json
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\MyClassWork\bin\Debug\net8.0\MyClassWork.runtimeconfig.json
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\MyClassWork\bin\Debug\net8.0\MyClassWork.dll
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\MyClassWork\bin\Debug\net8.0\MyClassWork.pdb
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\MyClassWork\obj\Debug\net8.0\MyClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\MyClassWork\obj\Debug\net8.0\MyClassWork.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\MyClassWork\obj\Debug\net8.0\MyClassWork.AssemblyInfo.cs
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\MyClassWork\obj\Debug\net8.0\MyClassWork.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\MyClassWork\obj\Debug\net8.0\MyClassWork.dll
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\MyClassWork\obj\Debug\net8.0\refint\MyClassWork.dll
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\MyClassWork\obj\Debug\net8.0\MyClassWork.pdb
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\MyClassWork\obj\Debug\net8.0\MyClassWork.genruntimeconfig.cache
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\MyClassWork\obj\Debug\net8.0\ref\MyClassWork.dll
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\MyClassWork\obj\Debug\net8.0\MyClassWork.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\Entregable\obj\Debug\net8.0\Entregable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\Entregable\obj\Debug\net8.0\Entregable.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\Entregable\obj\Debug\net8.0\Entregable.AssemblyInfo.cs
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\Entregable\obj\Debug\net8.0\Entregable.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\Entregable\obj\Debug\net8.0\Entregable.sourcelink.json
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\Entregable\bin\Debug\net8.0\Entregable.exe
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\Entregable\bin\Debug\net8.0\Entregable.deps.json
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\Entregable\bin\Debug\net8.0\Entregable.runtimeconfig.json
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\Entregable\bin\Debug\net8.0\Entregable.dll
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\Entregable\bin\Debug\net8.0\Entregable.pdb
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\Entregable\obj\Debug\net8.0\Entregable.dll
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\Entregable\obj\Debug\net8.0\refint\Entregable.dll
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\Entregable\obj\Debug\net8.0\Entregable.pdb
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\Entregable\obj\Debug\net8.0\Entregable.genruntimeconfig.cache
+C:\Users\Desi\source\repos\net-project\MyClassWorkSol\Entregable\obj\Debug\net8.0\ref\Entregable.dll

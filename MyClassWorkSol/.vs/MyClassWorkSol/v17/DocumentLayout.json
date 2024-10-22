@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Desi\\source\\repos\\net-project\\MyClassWorkSol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2461A55D-905F-4E61-AE7A-BB635826CA1F}|Entregable\\Entregable.csproj|c:\\users\\desi\\source\\repos\\net-project\\myclassworksol\\entregable\\sistemainventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2461A55D-905F-4E61-AE7A-BB635826CA1F}|Entregable\\Entregable.csproj|solutionrelative:entregable\\sistemainventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2461A55D-905F-4E61-AE7A-BB635826CA1F}|Entregable\\Entregable.csproj|c:\\users\\desi\\source\\repos\\net-project\\myclassworksol\\entregable\\gestioncontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2461A55D-905F-4E61-AE7A-BB635826CA1F}|Entregable\\Entregable.csproj|solutionrelative:entregable\\gestioncontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2461A55D-905F-4E61-AE7A-BB635826CA1F}|Entregable\\Entregable.csproj|c:\\users\\desi\\source\\repos\\net-project\\myclassworksol\\entregable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2461A55D-905F-4E61-AE7A-BB635826CA1F}|Entregable\\Entregable.csproj|solutionrelative:entregable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-project\\MyClassWorkSol\\Entregable\\Program.cs",
+              "RelativeDocumentMoniker": "Entregable\\Program.cs",
+              "ToolTip": "C:\\Users\\Desi\\source\\repos\\net-project\\MyClassWorkSol\\Entregable\\Program.cs",
+              "RelativeToolTip": "Entregable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:46:41.692Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionContactos.cs",
+              "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-project\\MyClassWorkSol\\Entregable\\GestionContactos.cs",
+              "RelativeDocumentMoniker": "Entregable\\GestionContactos.cs",
+              "ToolTip": "C:\\Users\\Desi\\source\\repos\\net-project\\MyClassWorkSol\\Entregable\\GestionContactos.cs",
+              "RelativeToolTip": "Entregable\\GestionContactos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:51:51.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SistemaInventario.cs",
+              "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-project\\MyClassWorkSol\\Entregable\\SistemaInventario.cs",
+              "RelativeDocumentMoniker": "Entregable\\SistemaInventario.cs",
+              "ToolTip": "C:\\Users\\Desi\\source\\repos\\net-project\\MyClassWorkSol\\Entregable\\SistemaInventario.cs",
+              "RelativeToolTip": "Entregable\\SistemaInventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:43:17.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
