@@ -1,0 +1,15 @@
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionContactos\bin\Debug\net8.0\GestionContactos.exe
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionContactos\bin\Debug\net8.0\GestionContactos.deps.json
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionContactos\bin\Debug\net8.0\GestionContactos.runtimeconfig.json
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionContactos\bin\Debug\net8.0\GestionContactos.dll
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionContactos\bin\Debug\net8.0\GestionContactos.pdb
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionContactos\obj\Debug\net8.0\GestionContactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionContactos\obj\Debug\net8.0\GestionContactos.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionContactos\obj\Debug\net8.0\GestionContactos.AssemblyInfo.cs
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionContactos\obj\Debug\net8.0\GestionContactos.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionContactos\obj\Debug\net8.0\GestionContactos.sourcelink.json
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionContactos\obj\Debug\net8.0\GestionContactos.dll
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionContactos\obj\Debug\net8.0\refint\GestionContactos.dll
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionContactos\obj\Debug\net8.0\GestionContactos.pdb
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionContactos\obj\Debug\net8.0\GestionContactos.genruntimeconfig.cache
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionContactos\obj\Debug\net8.0\ref\GestionContactos.dll
