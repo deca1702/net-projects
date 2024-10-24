@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Desi\\source\\repos\\net-project\\MyClassWorkSol\\GestionLibros\\GestionLibros.csproj",
+      "projectUniqueName": "C:\\Users\\Desi\\source\\repos\\net-projects\\MyClassWorkSol\\GestionLibros\\GestionLibros.csproj",
       "projectName": "GestionLibros",
-      "projectPath": "C:\\Users\\Desi\\source\\repos\\net-project\\MyClassWorkSol\\GestionLibros\\GestionLibros.csproj",
+      "projectPath": "C:\\Users\\Desi\\source\\repos\\net-projects\\MyClassWorkSol\\GestionLibros\\GestionLibros.csproj",
       "packagesPath": "C:\\Users\\Desi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Desi\\source\\repos\\net-project\\MyClassWorkSol\\GestionLibros\\obj\\",
+      "outputPath": "C:\\Users\\Desi\\source\\repos\\net-projects\\MyClassWorkSol\\GestionLibros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

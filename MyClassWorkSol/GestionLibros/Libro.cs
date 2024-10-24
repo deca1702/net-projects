@@ -10,7 +10,7 @@ namespace GestionLibros
         public string Moneda { get; private set; }
 
         public Libro(string editorial, string titulo,  int paginas, string isbn, string autor)
-            : base(titulo, editorial, TipoPublicacion.Libro, paginas)
+            : base(editorial,titulo, TipoPublicacion.Libro, paginas)
         {
             if (string.IsNullOrWhiteSpace(autor))
             {
@@ -44,7 +44,7 @@ namespace GestionLibros
 
         public override string ToString()
         {
-            return $"ISBN: {ISBN}, Autor: {Autor}, Precio: {Precio} {Moneda}";
+            return $"ISBN: {ISBN}, Autor: {Autor},Editorial: {Editorial}, Paginas: {Paginas}, Titulo: {Titulo}";
         }
 
         public override bool Equals(object obj)

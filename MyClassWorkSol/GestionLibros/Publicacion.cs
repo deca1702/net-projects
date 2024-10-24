@@ -60,8 +60,21 @@ namespace GestionLibros
         {
             if (!_publicado)
             {
+
                 _publicado = true;
                 _fechaPublicacion = fechaPublicacion;
+
+
+                Console.Write("Añade un fecha de publicacion ");
+                _fechaPublicacion = Convert.ToDateTime(Console.ReadLine());
+
+
+
+
+
+
+
+
             }
             else
             {
@@ -72,7 +85,8 @@ namespace GestionLibros
         {
             if (_publicado)
             {
-                Console.Write(_fechaPublicacion.ToString("d"));
+
+                Console.Write(_fechaPublicacion.ToString());
             }
         }
 

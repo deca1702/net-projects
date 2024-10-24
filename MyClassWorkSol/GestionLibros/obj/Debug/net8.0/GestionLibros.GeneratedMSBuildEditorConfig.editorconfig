@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GestionLibros
-build_property.ProjectDir = C:\Users\Desi\source\repos\net-project\MyClassWorkSol\GestionLibros\
+build_property.ProjectDir = C:\Users\Desi\source\repos\net-projects\MyClassWorkSol\GestionLibros\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
