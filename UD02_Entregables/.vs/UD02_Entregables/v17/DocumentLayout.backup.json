@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\gestionempleados\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|solutionrelative:gestionempleados\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\gestionempleados\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|solutionrelative:gestionempleados\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\gestionempleados\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|solutionrelative:gestionempleados\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\gestionempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|solutionrelative:gestionempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\gestionempleados\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|solutionrelative:gestionempleados\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\gestionempleados\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|solutionrelative:gestionempleados\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\gestionempleados\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|solutionrelative:gestionempleados\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62628C90-EEDA-4D5E-985B-2429A98F319B}|GestionContactos\\GestionContactos.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\gestioncontactos\\gestion_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62628C90-EEDA-4D5E-985B-2429A98F319B}|GestionContactos\\GestionContactos.csproj|solutionrelative:gestioncontactos\\gestion_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62628C90-EEDA-4D5E-985B-2429A98F319B}|GestionContactos\\GestionContactos.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\gestioncontactos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62628C90-EEDA-4D5E-985B-2429A98F319B}|GestionContactos\\GestionContactos.csproj|solutionrelative:gestioncontactos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|c:\\users\\desi\\source\\repos\\net-projects\\ud02_entregables\\gestionempleados\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55575D05-8B47-4941-9983-416815B674DC}|GestionEmpleados\\GestionEmpleados.csproj|solutionrelative:gestionempleados\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,41 +39,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Desarrollador.cs",
-              "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionEmpleados\\Desarrollador.cs",
-              "RelativeDocumentMoniker": "GestionEmpleados\\Desarrollador.cs",
-              "ToolTip": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionEmpleados\\Desarrollador.cs",
-              "RelativeToolTip": "GestionEmpleados\\Desarrollador.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionEmpleados\\Menu.cs",
+              "RelativeDocumentMoniker": "GestionEmpleados\\Menu.cs",
+              "ToolTip": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionEmpleados\\Menu.cs",
+              "RelativeToolTip": "GestionEmpleados\\Menu.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswDAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:23:04.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tarea.cs",
-              "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionEmpleados\\Tarea.cs",
-              "RelativeDocumentMoniker": "GestionEmpleados\\Tarea.cs",
-              "ToolTip": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionEmpleados\\Tarea.cs",
-              "RelativeToolTip": "GestionEmpleados\\Tarea.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T23:09:27.683Z",
+              "WhenOpened": "2024-11-04T19:17:33.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionEmpleados\\Program.cs",
+              "RelativeDocumentMoniker": "GestionEmpleados\\Program.cs",
+              "ToolTip": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionEmpleados\\Program.cs",
+              "RelativeToolTip": "GestionEmpleados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:18:04.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Desarrollador.cs",
+              "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionEmpleados\\Desarrollador.cs",
+              "RelativeDocumentMoniker": "GestionEmpleados\\Desarrollador.cs",
+              "ToolTip": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionEmpleados\\Desarrollador.cs",
+              "RelativeToolTip": "GestionEmpleados\\Desarrollador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:23:04.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionEmpleados\\Tarea.cs",
+              "RelativeDocumentMoniker": "GestionEmpleados\\Tarea.cs",
+              "ToolTip": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionEmpleados\\Tarea.cs",
+              "RelativeToolTip": "GestionEmpleados\\Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:09:27.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Gerente.cs",
               "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionEmpleados\\Gerente.cs",
               "RelativeDocumentMoniker": "GestionEmpleados\\Gerente.cs",
               "ToolTip": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionEmpleados\\Gerente.cs",
               "RelativeToolTip": "GestionEmpleados\\Gerente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T23:09:04.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T23:09:04.066Z"
             },
             {
               "$type": "Document",
@@ -83,34 +105,9 @@
               "RelativeDocumentMoniker": "GestionEmpleados\\Empleado.cs",
               "ToolTip": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionEmpleados\\Empleado.cs",
               "RelativeToolTip": "GestionEmpleados\\Empleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T23:08:41.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Gestion_clientes.cs",
-              "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionContactos\\Gestion_clientes.cs",
-              "RelativeDocumentMoniker": "GestionContactos\\Gestion_clientes.cs",
-              "ToolTip": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionContactos\\Gestion_clientes.cs",
-              "RelativeToolTip": "GestionContactos\\Gestion_clientes.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAYwH4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T18:55:53.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionContactos\\Program.cs",
-              "RelativeDocumentMoniker": "GestionContactos\\Program.cs",
-              "ToolTip": "C:\\Users\\Desi\\source\\repos\\net-projects\\UD02_Entregables\\GestionContactos\\Program.cs",
-              "RelativeToolTip": "GestionContactos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T18:54:24.894Z"
+              "WhenOpened": "2024-10-22T23:08:41.479Z"
             }
           ]
         }

@@ -1,0 +1,15 @@
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.AssemblyInfo.cs
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.sourcelink.json
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionEmpleados\bin\Debug\net8.0\GestionEmpleados.exe
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionEmpleados\bin\Debug\net8.0\GestionEmpleados.deps.json
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionEmpleados\bin\Debug\net8.0\GestionEmpleados.runtimeconfig.json
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionEmpleados\bin\Debug\net8.0\GestionEmpleados.dll
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionEmpleados\bin\Debug\net8.0\GestionEmpleados.pdb
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.dll
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionEmpleados\obj\Debug\net8.0\refint\GestionEmpleados.dll
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.pdb
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.genruntimeconfig.cache
+C:\Users\Desi\source\repos\net-projects\UD02_Entregables\GestionEmpleados\obj\Debug\net8.0\ref\GestionEmpleados.dll

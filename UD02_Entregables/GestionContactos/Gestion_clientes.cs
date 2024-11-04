@@ -1,14 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading;
 
 namespace GestionContactos
 {
     internal class Gestion_contacto
     {
-        //Diccionario que almacena los contactos
-        //La clave es el nombre del contacto y el valor es otro diccionario
-        private static Dictionary<string, Dictionary<string, string>> contactos = new Dictionary<string, Dictionary<string, string>>();
-        p
+        public static List<Gerente> gerentes = new List<Gerente>();
+        public static List<Desarrollador> desarrolladores = new List<Desarrollador>();
+        public static List<Tarea> tareas = new List<Tarea>();
 
         public static void MostrarMenu()
         {

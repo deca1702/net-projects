@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System;
 
 namespace GestionEmpleados
 {
@@ -24,24 +25,28 @@ namespace GestionEmpleados
             }
         }
         //Constructor
-        public Gerente(string nombre, string apellidos, string dni, decimal salario, TipoPuesto puesto, List<Desarrollador> equipoDesarrolladores, decimal bonoAnual)
-            : base(nombre, apellidos, dni, salario, puesto)
+        public Gerente(string nombre, string apellidos, string dni, decimal salario, decimal bonoAnual)
+            : base(nombre, apellidos, dni, salario, TipoPuesto.Gerente)
         {
-            EquipoDesarrolladores = equipoDesarrolladores;
-            BonoAnual = bonoAnual;
+            _bonoAnual = bonoAnual >= 0 ? bonoAnual : throw new ArgumentException("Bono anual no puede ser negativo.");
+            EquipoDesarrolladores = new List<Desarrollador>();
         }
+
         public override decimal CalcularSalarioAnual()
         {
             return base.CalcularSalarioAnual() + _bonoAnual;
         }
-        
-        public static void AsignarDesarrollador(Desarrollador desarrollador, Gerente gerente)
+
+        public void AsignarDesarrollador(Desarrollador desarrollador)
         {
-            gerente.EquipoDesarrolladores.Add(desarrollador);
+            if (!EquipoDesarrolladores.Contains(desarrollador))
+                EquipoDesarrolladores.Add(desarrollador);
         }
-        public static void EliminarDesarrollador(Desarrollador desarrollador, Gerente gerente)
+
+        public void EliminarDesarrollador(Desarrollador desarrollador)
         {
-            gerente.EquipoDesarrolladores.Remove(desarrollador);
+            EquipoDesarrolladores.Remove(desarrollador);
         }
     }
-}   
+}
+

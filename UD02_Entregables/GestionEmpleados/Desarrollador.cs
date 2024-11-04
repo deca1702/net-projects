@@ -1,36 +1,51 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GestionEmpleados
 {
-    public enum NivelDesrrollador
+    public enum NivelDesarrollador
     {
         Junior,
         Senior
     }
+
     public class Desarrollador : Empleado
     {
-        public Dictionary<int,string> TareasDesarrollador { get; private set; }
-        public NivelDesrrollador Nivel { get; set; }
+        public Dictionary<string, string> TareasDesarrollador { get; private set; }
+        public NivelDesarrollador Nivel { get; set; }
 
         // Constructor
-        public Desarrollador(string nombre, string apellidos, string dni, decimal salario, TipoPuesto puesto, NivelDesrrollador nivel)
-            : base(nombre, apellidos, dni, salario, puesto)
+        public Desarrollador(string nombre, string apellidos, string dni, decimal salario, NivelDesarrollador nivel)
+           : base(nombre, apellidos, dni, salario, TipoPuesto.Desarrollador)
         {
             Nivel = nivel;
-            TareasDesarrollador = new Dictionary<int, string>();
+            TareasDesarrollador = new Dictionary<string, string>();
+        }
 
-        }
-        public static bool AsignarTarea(Tarea tarea)
+        public void AsignarTarea(Tarea tarea)
         {
-            return true;
+            if (!tarea.Asignada)
+            {
+                TareasDesarrollador[tarea.ID] = tarea.Nombre;
+                tarea.Asignada = true;
+            }
+            else
+            {
+                Console.WriteLine("La tarea ya está asignada a otro desarrollador.");
+            }
         }
-        public static bool EliminarTarea(Tarea tarea)
+
+        public void DesAsignarTarea(Tarea tarea)
         {
-            return true;
+            if (TareasDesarrollador.ContainsKey(tarea.ID))
+            {
+                TareasDesarrollador.Remove(tarea.ID);
+                tarea.Asignada = false;
+            }
+            else
+            {
+                Console.WriteLine("La tarea no está asignada a este desarrollador.");
+            }
         }
     }
 }
