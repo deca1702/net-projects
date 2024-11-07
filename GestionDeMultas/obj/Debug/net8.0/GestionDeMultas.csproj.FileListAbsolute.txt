@@ -1,0 +1,15 @@
+C:\Users\2DAM-desicar296\source\repos\net-projects\GestionDeMultas\obj\Debug\net8.0\GestionDeMultas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2DAM-desicar296\source\repos\net-projects\GestionDeMultas\obj\Debug\net8.0\GestionDeMultas.AssemblyInfoInputs.cache
+C:\Users\2DAM-desicar296\source\repos\net-projects\GestionDeMultas\obj\Debug\net8.0\GestionDeMultas.AssemblyInfo.cs
+C:\Users\2DAM-desicar296\source\repos\net-projects\GestionDeMultas\obj\Debug\net8.0\GestionDeMultas.csproj.CoreCompileInputs.cache
+C:\Users\2DAM-desicar296\source\repos\net-projects\GestionDeMultas\obj\Debug\net8.0\GestionDeMultas.sourcelink.json
+C:\Users\2DAM-desicar296\source\repos\net-projects\GestionDeMultas\bin\Debug\net8.0\GestionDeMultas.exe
+C:\Users\2DAM-desicar296\source\repos\net-projects\GestionDeMultas\bin\Debug\net8.0\GestionDeMultas.deps.json
+C:\Users\2DAM-desicar296\source\repos\net-projects\GestionDeMultas\bin\Debug\net8.0\GestionDeMultas.runtimeconfig.json
+C:\Users\2DAM-desicar296\source\repos\net-projects\GestionDeMultas\bin\Debug\net8.0\GestionDeMultas.dll
+C:\Users\2DAM-desicar296\source\repos\net-projects\GestionDeMultas\bin\Debug\net8.0\GestionDeMultas.pdb
+C:\Users\2DAM-desicar296\source\repos\net-projects\GestionDeMultas\obj\Debug\net8.0\GestionDeMultas.dll
+C:\Users\2DAM-desicar296\source\repos\net-projects\GestionDeMultas\obj\Debug\net8.0\refint\GestionDeMultas.dll
+C:\Users\2DAM-desicar296\source\repos\net-projects\GestionDeMultas\obj\Debug\net8.0\GestionDeMultas.pdb
+C:\Users\2DAM-desicar296\source\repos\net-projects\GestionDeMultas\obj\Debug\net8.0\GestionDeMultas.genruntimeconfig.cache
+C:\Users\2DAM-desicar296\source\repos\net-projects\GestionDeMultas\obj\Debug\net8.0\ref\GestionDeMultas.dll
